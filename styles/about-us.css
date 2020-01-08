@@ -1,0 +1,123 @@
+body {
+    background-color: darkseagreen;
+}
+
+img {
+    vertical-align: middle;
+}
+
+.about {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+    font-family: Arial;
+}
+.abt-heading{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    font-family: cursive;
+    font-size: 40px;
+    
+}
+/*abt-us*/
+.abt-us{
+    position: absolute;
+    top: 50%;
+    left: 60%;
+}
+.donate {
+    position: absolute;
+    top: 90%;
+    left: 30px;
+    background-color: white;
+    padding: 20px 150px;
+
+}
+
+.donate a {
+    color: green;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.text-block {
+    position: inherit;
+    font-weight: bold;
+    font-size: 20px;
+    color: forestgreen;
+}
+
+.text-block h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.text-block p {
+    text-align: center;
+
+}
+
+/*mission-box*/
+.mission-box {
+    position: absolute;
+    padding: 20px;
+    background-color: lightseagreen;
+    color: white;
+    top: 130%;
+    width: 250px;
+    left: 100px;
+}
+
+/*make-donations*/
+.make-donations {
+    position: absolute;
+    padding: 20px;
+    top: 130%;
+    left: 30%;
+    width: 250px;
+    background-color: lightseagreen;
+    color: white;
+}
+
+/*help & support*/
+.help-support {
+    position: absolute;
+    padding: 20px;
+    top: 130%;
+    right: 30%;
+    width: 250px;
+    background-color: lightseagreen;
+    color: white;
+
+}
+
+/*programs*/
+.programs {
+    position: absolute;
+    padding: 20px;
+    top: 130%;
+    right: 100px;
+    width: 250px;
+    background-color: lightseagreen;
+    color: white;
+}
+/* Footer */
+.abt-footer {
+    position: absolute;
+    top: 200%;
+    padding: 10px;
+    text-align: center;
+    background: black;
+    width: 100%;
+    color: white;
+
+}
+
+.abt-footer a {
+
+    text-align: center;
+    background: black;
+    color: white;
+}

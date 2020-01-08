@@ -1,0 +1,45 @@
+img{
+    height: 600px;
+}
+label{
+    color: forestgreen;
+}
+.box{
+    position: absolute;
+    padding: 20px;
+      top: 20%;
+      right: 30%;
+      background-color: palegreen;
+      color: white;
+}
+.box h2{
+    text-align: center;
+    color: forestgreen;
+}
+.amount{
+    border: none;
+    border-radius:25px;
+    color: deepskyblue;
+    padding: 10px 10px;
+}
+.button{
+    border:none;
+	padding:10px 170px;
+	border-radius:25px;
+	background:seagreen;
+    color: white;
+    font:600 16px/18px 'Open Sans',sans-serif;
+    
+}
+.input{
+    border:none;
+	padding:10px 120px;
+	border-radius:25px;
+	background:white;
+    color: deepskyblue;
+}
+a{
+    text-decoration: none;
+    color: forestgreen;
+    font:600 16px/18px 'Open Sans',sans-serif;
+}

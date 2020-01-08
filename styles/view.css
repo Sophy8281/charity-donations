@@ -1,0 +1,25 @@
+h3 {
+    text-align: center;
+}
+
+th,
+td {
+    background: white;
+    padding: 10px;
+    text-align: center;
+}
+table{
+    margin-left: 10%;
+}
+
+th {
+    color: forestgreen;
+}
+
+a {
+    color: white;
+    background: royalblue;
+    padding: 5px;
+    font-size: 25px;
+    text-decoration: none;
+}

@@ -1,0 +1,51 @@
+body{
+    background-color: darkseagreen;
+}
+table{
+    margin-left: 20%;
+}
+img{
+    height: 560px;
+}
+lable{
+    color: forestgreen;
+}
+.box{
+    position: absolute;
+    padding: 20px;
+      top: 30%;
+      right: 30%;
+      background-color: palegreen;
+      color: white;
+}
+.box h2{
+    text-align: center;
+    color: forestgreen;
+}
+.button{
+    border:none;
+	padding:10px 170px;
+	border-radius:25px;
+	background:seagreen;
+    color: white;
+    font:600 16px/18px 'Open Sans',sans-serif;
+    
+}
+.input{
+    border: none;
+    border-radius: 25px;
+    padding: 10px 120px;
+    background: white;
+    color: deepskyblue;
+}
+.numberinput{
+    border:none;
+	border-radius:25px;
+	background:white;
+    color: deepskyblue;
+}
+a{
+    text-decoration: none;
+    color: forestgreen;
+    font:600 16px/18px 'Open Sans',sans-serif;
+}
